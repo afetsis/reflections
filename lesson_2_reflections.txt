@@ -7,3 +7,9 @@ and the repository? What value do you think it offers?
 
 Track the changes and control the items that are going to 
 be commited.
+
+How can you use the staging area to make sure you have one commit 
+per logical change?
+
+Using git status and git diff (no arguments) i can view diffs 
+between working direcotory and staging area.
