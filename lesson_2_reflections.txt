@@ -13,3 +13,8 @@ per logical change?
 
 Using git status and git diff (no arguments) i can view diffs 
 between working direcotory and staging area.
+
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+create different versions, add new experimental features or remove old ones. 
