@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping
 your history organized? How would branches help?
 
 create different versions, add new experimental features or remove old ones. 
+
+How do the diagrams help you visualize the branch structure?
+
+can view the nodes and branches of the diagram. state all commits.
