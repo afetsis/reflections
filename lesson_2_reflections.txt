@@ -22,3 +22,8 @@ create different versions, add new experimental features or remove old ones.
 How do the diagrams help you visualize the branch structure?
 
 can view the nodes and branches of the diagram. state all commits.
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+Merge changes made in both branches and keep commits from both.
