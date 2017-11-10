@@ -27,3 +27,7 @@ What is the result of merging two branches together?
 Why do we represent it in the diagram the way we do?
 
 Merge changes made in both branches and keep commits from both.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros. automated task Cons. unwanted merge.
